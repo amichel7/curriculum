@@ -2064,6 +2064,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [TheNaturalWill's Solution (Easy)](https://github.com/thenaturalwill/google-homepage) - [View in Browser](https://thenaturalwill.github.io/google-homepage/)
 * [todoroff's Solution (Easy)](https://github.com/todoroff/google-homepage) - [View in Browser](https://todoroff.github.io/google-homepage/)
 * [alex-sir's Solution (Easy)](https://github.com/alex-sir/google-homepage) - [View in Browser](https://alex-sir.github.io/google-homepage/)
+* [Amichel7's Solution (Easy)](https://github.com/amichel7/google-homepage) - [View in Browser](https://amichel7.github.io/google-homepage/)
 
 </details>
 
